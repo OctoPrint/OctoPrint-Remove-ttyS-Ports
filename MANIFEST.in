@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_remove_ttys_ports/templates *
+recursive-include octoprint_remove_ttys_ports/translations *
+recursive-include octoprint_remove_ttys_ports/static *
